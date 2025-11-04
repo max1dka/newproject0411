@@ -5,13 +5,13 @@ public class projMainApplication {
         System.out.println("Hello World!");
         System.out.println("111111");
         System.out.println("111221");
+        doSomething();
         System.out.println("1112331");
         System.out.println("111233123121");
     }
 
     public static void doSomething() {
-        System.out.println(0);
-        System.out.println(0);
-        System.out.println(0);
+        System.out.println("PRIVET");
+
     }
 }
