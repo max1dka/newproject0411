@@ -10,8 +10,7 @@ public class projMainApplication {
     }
 
     public static void doSomething() {
-        System.out.println(0);
-        System.out.println(0);
-        System.out.println(0);
+        System.out.println("PRIVET");
+
     }
 }
