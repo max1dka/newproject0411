@@ -6,6 +6,7 @@ public class projMainApplication {
         System.out.println("111111");
         System.out.println("111221");
         System.out.println("1112331");
+        System.out.println("111233123121");
     }
 
     public static void doSomething() {
