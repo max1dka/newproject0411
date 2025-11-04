@@ -10,8 +10,8 @@ public class projMainApplication {
     }
 
     public static void doSomething() {
-        System.out.println(1);
-        System.out.println(23);
-        System.out.println(333);
+        System.out.println(0);
+        System.out.println(0);
+        System.out.println(0);
     }
 }
