@@ -6,11 +6,12 @@ public class projMainApplication {
         System.out.println("111111");
         System.out.println("111221");
         System.out.println("1112331");
+        System.out.println("111233123121");
     }
 
     public static void doSomething() {
         System.out.println(1);
-        System.out.println(2);
-        System.out.println(3);
+        System.out.println(23);
+        System.out.println(333);
     }
 }
